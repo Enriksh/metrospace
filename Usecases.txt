@@ -1,0 +1,21 @@
+Register: A student inputs their personal information such as name, email, and password to create an account on the university mobile application.
+
+Login: A student enters their email and password to access their account on the university mobile application.
+
+Reset Forgotten Password: A student requests to reset their password by entering their email, and a link is sent to their email to reset the password.
+
+Chat with other students: A student can chat with other students within the university mobile application.
+
+Join/create a student club: A student can join an existing student club or create a new club on the university mobile application.
+
+Join/create a study group: A student can join an existing study group or create a new study group on the university mobile application.
+
+View/Edit schedule: A student can view their class schedule and make changes to their timetable on the university mobile application.
+
+View grades/absences: A student can view their grades and absences on the university mobile application.
+
+Access Hot Takes and Materials: A student can view materials and homework uploaded by their professors on the university mobile application.
+
+Register as an Alumni: A student who has finished their studies can register as an alumni on the university mobile application.
+
+Connect with alumni/university/job opportunities: Alumni can connect with each other, the university, and job opportunities on the university mobile application.
