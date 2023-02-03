@@ -1,0 +1,11 @@
+Domain name: This is the web address or URL that people will use to access your website.
+
+Web hosting: This is a service that allows you to store your website files on a server that is connected to the internet.
+
+Content: This is the text, images, videos, and other media that will be displayed on your website.
+
+Design and layout: This refers to the visual appearance of your website and how the content is organized.
+
+Website builder or development tools: You may use a website builder such as Wix or WordPress, or you may hire a web developer to build your website from scratch.
+
+Maintenance and updates: Websites require regular maintenance and updates to keep them running smoothly and to ensure that they are secure.
