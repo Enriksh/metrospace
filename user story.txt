@@ -1,0 +1,21 @@
+Register: As a new student, I want to be able to create an account on the university mobile app so that I can access all the features and resources it offers.
+
+Login: As a student, I want to be able to easily log into my account on the university mobile app so that I can view my schedule, grades, and other important information.
+
+Reset Forgotten Password: As a student who has forgotten my password, I want to be able to quickly reset it using my email so that I can log into my account again.
+
+Chat with other students: As a student who wants to connect with my classmates, I want to be able to chat with them within the university mobile app.
+
+Join/create a student club: As a student who is interested in getting involved in campus activities, I want to be able to join or create a student club on the university mobile app.
+
+Join/create a study group: As a student who wants to study with my classmates, I want to be able to join or create a study group on the university mobile app.
+
+View/Edit schedule: As a student who wants to keep track of my classes, I want to be able to view and edit my schedule on the university mobile app.
+
+View grades/absences: As a student who wants to keep track of my academic progress, I want to be able to view my grades and absences on the university mobile app.
+
+Access Hot Takes and Materials: As a student who wants to stay up-to-date with my coursework, I want to be able to access materials and homework uploaded by my professors on the university mobile app.
+
+Register as an Alumni: As a student who has recently graduated, I want to be able to register as an alumni on the university mobile app so that I can continue to stay connected with the university and other alumni.
+
+Connect with alumni/university/job opportunities: As an alumni, I want to be able to connect with other alumni, the university, and job opportunities through the university mobile app.
